@@ -60,7 +60,6 @@ void free_doubly_linked_list(DoublyLinkedListNode* node) {
     }
 }
 
-// Complete the sortedInsert function below.
 
 /*
  * For your reference:
