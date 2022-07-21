@@ -20,7 +20,6 @@ int main() {
     while(n--){
         string s;
         cin>>s;
-        //cout<<s<<endl;
         cout<<count[s]<<endl;
     }
     return 0;
